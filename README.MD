@@ -1,5 +1,5 @@
 # 追梦易星体 HiDream Starease
-
+![HiDream Starease Preview](https://raw.githubusercontent.com/Cloudfonts/Starease/main/preview/preview.jpg "HiDream Starease Preview")
 ## 名称释意 Meaning of Name
 
 易：指某易公司，同时也取容易之意
