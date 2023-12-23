@@ -8,7 +8,7 @@
 
 易星：意为某易软件中对敏感字的处理为通篇\*\*\*，同时含有文字非常容易变成\*\*\*的意思
 
-Star: Means Sterisk, when toning down expletives, asterisks are often used to replace letters. For example, F raised to the Kth power "F\*\*K"
+Star: Means Asterisk, when toning down expletives, asterisks are often used to replace letters. For example, F raised to the Kth power "F\*\*K"
 
 Ease: Means Nxxease company and also "easy".
 
