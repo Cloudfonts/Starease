@@ -35,6 +35,6 @@ License: [Creative Commons Attribution Share Alike](http://creativecommons.org/l
 
 Contains the same glyphs as [Noto Sans SC](https://fonts.google.com/noto/specimen/Noto+Sans+SC)
 
-# 版权归属 Copyright
+## 版权归属 Copyright
 HiDream Starease 字体版权归 Minecraftia 字体版权所有者所有。\
 HiDream Starease is copyrighted by Minecraftia copyright owner.
